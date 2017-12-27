@@ -1,3 +1,5 @@
+# This is my personal version of the Data Incubator's pre-program mini-project
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
